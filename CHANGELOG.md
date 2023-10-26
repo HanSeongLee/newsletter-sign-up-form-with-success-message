@@ -1,5 +1,12 @@
 # 🚦 CHANGELOG
 
+## 1.0.0 (2023-10-26)
+
+
+### 📝 Docs
+
+* **README:** update README.md ([f6132be](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/commit/f6132bea3d1e81f942534153d32c63c2b98a751d))
+
 ## 1.0.0 (2023-10-23)
 
 
