@@ -1,6 +1,6 @@
 {
-  "name": "frontend-mentor-nextjs-ts-template",
-  "version": "1.0.0",
+  "name": "newsletter-sign-up-form-with-success-message",
+  "version": "0.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
