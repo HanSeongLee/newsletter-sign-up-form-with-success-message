@@ -1,0 +1,11 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+echo "🚦 PREPARE-COMMIT-MSG | Start cz with cz-customizable..."
+
+# Check if running in a terminal
+if [ -t 0 ]; then
+  exec < /dev/tty && npx cz --hook || true
+else
+  npx cz --hook || true
+fi
