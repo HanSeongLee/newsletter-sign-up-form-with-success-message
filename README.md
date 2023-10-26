@@ -1,5 +1,5 @@
-# Frontend Mentor NextJS TS Template
-![GitHub package.json version (subfolder of monorepo)](https://img.shields.io/github/package-json/v/HanSeongLee/frontend-mentor-nextjs-ts-template)
+# Newsletter Sign Up Form with Success Message
+![GitHub package.json version (subfolder of monorepo)](https://img.shields.io/github/package-json/v/HanSeongLee/newsletter-sign-up-form-with-success-message)
 
 ![Next.JS:v13.5.6](https://img.shields.io/badge/v13.5.6-575757?logo=next.js&label=Next.js&labelColor=000000)
 ![React:v18.2.0](https://img.shields.io/badge/v18.2.0-575757?logo=react&logoColor=000000&label=React&labelColor=61DAFB)
