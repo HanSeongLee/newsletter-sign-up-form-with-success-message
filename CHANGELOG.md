@@ -1,5 +1,12 @@
 # 🚦 CHANGELOG
 
+## [1.1.0](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/compare/v1.0.0...v1.1.0) (2023-10-27)
+
+
+### ✨ Features
+
+* add Roboto font ([066d9fd](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/commit/066d9fda67db22cd41c2e0631359cd55b272b37e))
+
 ## 1.0.0 (2023-10-26)
 
 
