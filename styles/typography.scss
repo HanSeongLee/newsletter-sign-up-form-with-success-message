@@ -1,0 +1,22 @@
+@import "utils";
+
+@mixin Heading {
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 100%;
+
+  @include media(">desktop") {
+    font-size: 56px;
+  }
+}
+
+@mixin Body {
+  font-size: 16px;
+  line-height: 150%;
+}
+
+@mixin BodySmall {
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 150%;
+}
