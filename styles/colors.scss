@@ -1,0 +1,11 @@
+:root {
+  --color-white: #FFFFFF;
+  --color-grey-25: rgba(25, 24, 43, 0.25);
+  --color-pale-navy: #36384D;
+  --color-dark-navy: #242742;
+  --color-vermellion: #FF6155;
+  --color-gradient-1: linear-gradient(204deg, #FF6A3A 0%, #FF527B 100%);
+
+  --color-primary: var(--color-dark-navy);
+  --color-neutral: var(--color-dark-navy);
+}
