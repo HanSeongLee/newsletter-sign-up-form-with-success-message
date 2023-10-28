@@ -1,5 +1,13 @@
 # 🚦 CHANGELOG
 
+## [1.2.0](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/compare/v1.1.0...v1.2.0) (2023-10-28)
+
+
+### ✨ Features
+
+* add colors.scss ([45ed35c](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/commit/45ed35c72bb9b9b58fbcf55b4646d78d9f550001))
+* add typography.scss ([4524d12](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/commit/4524d12fa9ae898100a8f9d912b917a25445df4e))
+
 ## [1.1.0](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/compare/v1.0.0...v1.1.0) (2023-10-27)
 
 
