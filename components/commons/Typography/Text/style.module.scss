@@ -1,0 +1,17 @@
+@import "styles/typography";
+
+.text {
+  @include Body;
+
+  &.danger {
+    color: var(--color-danger);
+  }
+
+  &.small {
+    @include BodySmall;
+  }
+
+  &.strong {
+    font-weight: 700;
+  }
+}
