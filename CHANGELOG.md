@@ -1,5 +1,17 @@
 # 🚦 CHANGELOG
 
+## [1.3.0](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/compare/v1.2.0...v1.3.0) (2023-10-29)
+
+
+### ✨ Features
+
+* add Title, Paragraph and Text components ([4e01b8a](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/commit/4e01b8a273a7f2a4f740c195e6a5d548a72ded20))
+
+
+### 🐛 Bug Fixes
+
+* resolve conflict between Next.js Image and Storybook ([b447dad](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/commit/b447daddc4c77884056d01f444705ad581bca645))
+
 ## [1.2.0](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/compare/v1.1.0...v1.2.0) (2023-10-28)
 
 
