@@ -1,0 +1,39 @@
+@import "styles/typography";
+
+.inputWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+
+  &.error input {
+    color: var(--color-danger);
+    border-color: var(--color-danger);
+    background-color: rgba(255, 97, 85, 0.15);
+  }
+
+  .head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .input {
+    @include Body;
+
+    width: 100%;
+    color: var(--color-dark-navy);
+    border: 1px solid var(--color-grey-25);
+    border-radius: 8px;
+    padding: 18px 24px;
+    caret-color: var(--color-dark-navy);
+    outline: none;
+
+    &::placeholder {
+      color: var(--color-placholder);
+    }
+
+    &:focus {
+      border-color: var(--color-dark-navy);
+    }
+  }
+}
