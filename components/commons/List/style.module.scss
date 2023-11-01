@@ -1,0 +1,17 @@
+@import "styles/typography";
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  list-style: none;
+
+  .item {
+    @include Body;
+
+    display: flex;
+    gap: 16px;
+    align-items: flex-start;
+    color: var(--color-dark-navy);
+  }
+}
