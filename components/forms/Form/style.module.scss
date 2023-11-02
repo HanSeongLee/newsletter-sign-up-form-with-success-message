@@ -1,0 +1,17 @@
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  background-color: var(--color-white);
+
+  .head {
+    padding-top: 40px;
+  }
+
+  .head, .content {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+}
