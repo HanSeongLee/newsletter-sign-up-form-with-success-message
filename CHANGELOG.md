@@ -1,5 +1,12 @@
 # 🚦 CHANGELOG
 
+## [1.6.0](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/compare/v1.5.0...v1.6.0) (2023-11-02)
+
+
+### ✨ Features
+
+* add Form component ([0009df1](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/commit/0009df18d5f98bcdd54369f6b5289277066c67eb))
+
 ## [1.5.0](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/compare/v1.4.0...v1.5.0) (2023-11-01)
 
 
