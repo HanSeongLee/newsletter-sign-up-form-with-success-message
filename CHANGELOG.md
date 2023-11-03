@@ -1,5 +1,12 @@
 # 🚦 CHANGELOG
 
+## [1.7.0](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/compare/v1.6.0...v1.7.0) (2023-11-03)
+
+
+### ✨ Features
+
+* add Card component ([45bcadd](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/commit/45bcadd7ac7215a38b9c82bca24ed6fef88000b8))
+
 ## [1.6.0](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/compare/v1.5.0...v1.6.0) (2023-11-02)
 
 
