@@ -8,7 +8,7 @@
 
   @include media(">desktop") {
     max-width: 928px;
-    flex-direction: row;
+    flex-direction: row-reverse;
     gap: 64px;
     border-radius: 36px;
     background: #FFF;
