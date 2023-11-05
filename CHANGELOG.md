@@ -1,5 +1,19 @@
 # 🚦 CHANGELOG
 
+## [1.9.0](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/compare/v1.8.0...v1.9.0) (2023-11-05)
+
+
+### ✨ Features
+
+* add 'icon' property to Form component ([9abb2c5](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/commit/9abb2c58898c757435dadd51b6c22221ae3db2e9))
+
+
+### 🐛 Bug Fixes
+
+* correct head style in Card component ([6897dfb](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/commit/6897dfb13feb319de1a295c7162f079d5d1a2717))
+* correct interface properties in Card and Form components ([f3ceaf6](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/commit/f3ceaf66a0477f562b3a57200c05e49e0b36bc27))
+* correct styles in Card and Form components ([6cc694d](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/commit/6cc694d757f3d4ff09ab09e5aab4cb1a077bc78a))
+
 ## [1.8.0](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/compare/v1.7.0...v1.8.0) (2023-11-04)
 
 
