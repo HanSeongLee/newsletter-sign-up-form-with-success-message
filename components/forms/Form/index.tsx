@@ -5,7 +5,7 @@ import { Paragraph, Title } from 'components/commons/Typography';
 
 interface IProps extends FormHTMLAttributes<HTMLFormElement> {
     title: string;
-    description: string;
+    description: string | React.ReactNode;
     extra?: React.ReactNode;
 }
 
