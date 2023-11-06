@@ -1,5 +1,13 @@
 # 🚦 CHANGELOG
 
+## [1.9.1](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/compare/v1.9.0...v1.9.1) (2023-11-06)
+
+
+### 🐛 Bug Fixes
+
+* add missing props in NewsletterSignUpForm component ([cfb9589](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/commit/cfb9589c1da05e36184d2dce73b60503b344b568))
+* add responsive head to Card component ([9845c14](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/commit/9845c14a24898bf53ca5b41632ac7ccb68b51bb4))
+
 ## [1.9.0](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/compare/v1.8.0...v1.9.0) (2023-11-05)
 
 
