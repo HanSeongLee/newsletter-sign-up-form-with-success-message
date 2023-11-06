@@ -19,6 +19,7 @@ const NewsletterSignUpForm: React.FC<IProps> = ({ ...props }) => {
         <Form title={'Stay updated!'}
               description={'Join 60,000+ product managers receiving monthly updates on:'}
               extra={<List items={features} />}
+              {...props}
         >
             <Input id={'email'}
                    name={'email'}
