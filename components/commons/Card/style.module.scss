@@ -37,4 +37,20 @@
       padding: 0 0 0 40px;
     }
   }
+
+  .head {
+    .mobile {
+      @include media(">desktop") {
+        display: none;
+      }
+    }
+
+    .desktop {
+      display: none;
+
+      @include media(">desktop") {
+        display: block;
+      }
+    }
+  }
 }

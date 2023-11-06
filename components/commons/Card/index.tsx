@@ -3,7 +3,10 @@ import styles from './style.module.scss';
 import cn from 'classnames';
 
 interface IProps extends HTMLAttributes<HTMLDivElement> {
-    head?: ReactNode;
+    head?: {
+        mobile: ReactNode;
+        desktop: ReactNode;
+    };
 }
 
 const Card: React.FC<IProps> = ({ head, children, className, ...props }) => {
@@ -11,7 +14,12 @@ const Card: React.FC<IProps> = ({ head, children, className, ...props }) => {
         <div className={cn(styles.card, className)}>
             {head && (
                 <div className={styles.head}>
-                    {head}
+                    <div className={styles.mobile}>
+                        {head.mobile}
+                    </div>
+                    <div className={styles.desktop}>
+                        {head.desktop}
+                    </div>
                 </div>
             )}
             <div className={styles.body}>
