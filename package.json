@@ -12,7 +12,8 @@
     "build-storybook": "storybook build",
     "prepare": "husky install && chmod ug+x .husky/*",
     "commit": "./node_modules/cz-customizable/standalone.js",
-    "type-check": "tsc --noEmit"
+    "type-check": "tsc --noEmit",
+    "lint-staged": "lint-staged"
   },
   "dependencies": {
     "@sentry/nextjs": "^7.64.0",
@@ -51,6 +52,7 @@
     "eslint": "8.9.0",
     "eslint-config-next": "^13.2.4",
     "husky": "^8.0.3",
+    "lint-staged": "^15.0.2",
     "storybook": "^7.0.9",
     "storybook-addon-pseudo-states": "^2.0.1",
     "typescript": "^5.2.2"
@@ -62,5 +64,10 @@
     "cz-customizable": {
       "config": ".cz-config.js"
     }
+  },
+  "lint-staged": {
+    "*.{ts,tsx}": [
+      "bash -c 'npm run type-check'"
+    ]
   }
 }
