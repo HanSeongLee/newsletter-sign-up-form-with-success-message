@@ -1,5 +1,19 @@
 # 🚦 CHANGELOG
 
+## [1.10.0](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/compare/v1.9.1...v1.10.0) (2023-11-07)
+
+
+### ✨ Features
+
+* add SubscriptionCompletionForm component ([48eb532](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/commit/48eb532a8a9c5d451dfe26fb681c1e1a86f16280))
+
+
+### 💫 CI/CD
+
+* add npm cache ([0b316bd](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/commit/0b316bd90af1311d893da49edc0d41b43d23ad90))
+* add pre-commit hook to Husky ([3820fbb](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/commit/3820fbb2e98b50fe69e095299847025908774f0f))
+* add type checking ([85cdc5c](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/commit/85cdc5c537dab14cf45dd171f7ec4392fbb0ed1f))
+
 ## [1.9.1](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/compare/v1.9.0...v1.9.1) (2023-11-06)
 
 
