@@ -11,7 +11,8 @@
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
     "prepare": "husky install && chmod ug+x .husky/*",
-    "commit": "./node_modules/cz-customizable/standalone.js"
+    "commit": "./node_modules/cz-customizable/standalone.js",
+    "type-check": "tsc --noEmit"
   },
   "dependencies": {
     "@sentry/nextjs": "^7.64.0",
