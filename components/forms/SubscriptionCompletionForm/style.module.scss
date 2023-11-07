@@ -1,0 +1,9 @@
+@import "styles/utils";
+
+.form {
+  padding-top: 149px;
+
+  @include media(">desktop") {
+    padding-top: 0;
+  }
+}
