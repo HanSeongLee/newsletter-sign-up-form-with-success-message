@@ -1,5 +1,12 @@
 # 🚦 CHANGELOG
 
+## [1.10.1](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/compare/v1.10.0...v1.10.1) (2023-11-08)
+
+
+### 🐛 Bug Fixes
+
+* add validation handling to email input ([97111d3](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/commit/97111d3acb7e3a1fa4bde79123d7c0e0baa240fe))
+
 ## [1.10.0](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/compare/v1.9.1...v1.10.0) (2023-11-07)
 
 
