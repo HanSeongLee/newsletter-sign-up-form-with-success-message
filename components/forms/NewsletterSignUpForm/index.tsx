@@ -1,4 +1,4 @@
-import React, { FormHTMLAttributes } from 'react';
+import React, { FormHTMLAttributes, useState } from 'react';
 import Form from 'components/forms/Form';
 import Button from 'components/commons/Button';
 import Input from 'components/commons/Input';
@@ -9,11 +9,20 @@ interface IProps extends FormHTMLAttributes<HTMLFormElement> {
 }
 
 const NewsletterSignUpForm: React.FC<IProps> = ({ ...props }) => {
+    const [error, setError] = useState<string>('');
     const features = [
         'Product discovery and building what matters',
         'Measuring to ensure updates are a success',
         'And much more!',
     ];
+
+    const handleEmailInvalid = () => {
+        setError('Valid email required');
+    };
+
+    const handleEmailChange = () => {
+        setError('');
+    };
 
     return (
         <Form title={'Stay updated!'}
@@ -23,9 +32,13 @@ const NewsletterSignUpForm: React.FC<IProps> = ({ ...props }) => {
         >
             <Input id={'email'}
                    name={'email'}
+                   type={'email'}
                    label={'Email address'}
                    placeholder={'email@company.com'}
                    autoComplete={'email'}
+                   onInvalid={handleEmailInvalid}
+                   onChange={handleEmailChange}
+                   error={error}
             />
             <Button>
                 Subscribe to monthly newsletter
