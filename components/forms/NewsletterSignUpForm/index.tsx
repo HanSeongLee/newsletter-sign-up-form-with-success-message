@@ -39,6 +39,7 @@ const NewsletterSignUpForm: React.FC<IProps> = ({ ...props }) => {
                    onInvalid={handleEmailInvalid}
                    onChange={handleEmailChange}
                    error={error}
+                   required
             />
             <Button>
                 Subscribe to monthly newsletter
