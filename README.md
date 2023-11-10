@@ -58,3 +58,9 @@ Here are some example commit messages that adhere to the convention:
 - `move(src): move model classes to a new directory`
 - `remove(deprecated): remove unused functions`
 - `ci(travis): update test environment configuration`
+
+## Chromatic
+
+You can view the Storybook for this project on Chromatic:
+
+- [main](https://main--654ca3d75bede4983ba5b24b.chromatic.com)
