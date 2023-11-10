@@ -1,5 +1,19 @@
 # 🚦 CHANGELOG
 
+## [1.11.0](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/compare/v1.10.1...v1.11.0) (2023-11-10)
+
+
+### ✨ Features
+
+* add NewsletterSignUpContainer ([0a4d56e](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/commit/0a4d56eb5e0018e1522eef62fbe23e89e056b1ef))
+* add Storybook stories for form components ([eaeff59](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/commit/eaeff59d6a1178b7f5677951b908be840dfee672))
+* update home page ([ebb4258](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/commit/ebb4258f9e968f6903d8aaa05334bb3f8fb4de18))
+
+
+### 💫 CI/CD
+
+* add chromatic workflow ([403c909](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/commit/403c909825ffc6acfbadfe4c10b157be56837389))
+
 ## [1.10.1](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/compare/v1.10.0...v1.10.1) (2023-11-08)
 
 
