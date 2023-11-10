@@ -1,5 +1,12 @@
 # 🚦 CHANGELOG
 
+## [1.11.1](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/compare/v1.11.0...v1.11.1) (2023-11-10)
+
+
+### 🐛 Bug Fixes
+
+* add missing 'required' attribute to email input ([9e5a985](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/commit/9e5a9850ee4d1417a9392f49a167f65eb17f23e5))
+
 ## [1.11.0](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/compare/v1.10.1...v1.11.0) (2023-11-10)
 
 
