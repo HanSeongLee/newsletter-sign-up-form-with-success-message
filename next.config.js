@@ -37,6 +37,8 @@ module.exports = withSentryConfig(
       silent: true,
 
       dryRun: process.env.NODE_ENV !== 'production',
+      org: "comma-5l",
+      project: "newsletter-sign-up-form-with-success-message",
     },
     {
       // For all available options, see:
