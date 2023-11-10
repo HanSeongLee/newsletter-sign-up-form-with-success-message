@@ -1,0 +1,17 @@
+@import "styles/utils";
+
+.main {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+
+  @include media(">desktop") {
+    min-height: 1080px;
+  }
+}
+
+.container {
+  width: fit-content;
+  height: fit-content;
+  margin: auto;
+}
