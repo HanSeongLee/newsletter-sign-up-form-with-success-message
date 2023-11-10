@@ -1,5 +1,12 @@
 # 🚦 CHANGELOG
 
+## [1.11.2](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/compare/v1.11.1...v1.11.2) (2023-11-10)
+
+
+### 📝 Docs
+
+* **README:** add Chromatic section ([457aa0c](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/commit/457aa0c42affd50ba032378a13b6589c67967aa1))
+
 ## [1.11.1](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/compare/v1.11.0...v1.11.1) (2023-11-10)
 
 
