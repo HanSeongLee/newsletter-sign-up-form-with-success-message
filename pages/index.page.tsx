@@ -6,6 +6,9 @@ const Home: NextPage = () => {
     return (
         <>
             <main className={styles.main}>
+                <h1 className={styles.title}>
+                    {process.env.NEXT_PUBLIC_TITLE}
+                </h1>
                 <div className={styles.container}>
                     <NewsletterSignUpContainer />
                 </div>
