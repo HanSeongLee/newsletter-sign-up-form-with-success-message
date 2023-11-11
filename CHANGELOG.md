@@ -1,5 +1,12 @@
 # 🚦 CHANGELOG
 
+## [1.11.3](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/compare/v1.11.2...v1.11.3) (2023-11-11)
+
+
+### 🐛 Bug Fixes
+
+* add level-one heading ([f5fd1fb](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/commit/f5fd1fb74df4ec5812cec32c62bf4e4b8cdbba37))
+
 ## [1.11.2](https://github.com/HanSeongLee/newsletter-sign-up-form-with-success-message/compare/v1.11.1...v1.11.2) (2023-11-10)
 
 
